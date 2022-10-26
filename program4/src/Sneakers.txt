@@ -1,0 +1,13 @@
+ADI-30,adidas Yeezy Boost 350,365.00
+ADI-41,adidas Yeezy 700 V3,200.00
+ASC-GL,ASCICS Gel-Lyte III Afew,900.00
+Dia-N9000,Diadora N9000 Packer "Purple Tape",500.00
+JO-RH223,Jordan 1 Retro High Satin Black Toe(W),409.00
+JO-RH555,Jordan 4 Retro Bred (2019), 340.00
+JO-XX930,Jordan 111 Retro Concord (2018), 424.00
+NK-At45-79, Nike Air Max 90 Green,100.00
+NK-CCC99-0, Nike Dunk Low Viotech(2019), 300.00
+NK-NIDLSHS,Nike Dunk Low CO,226.00
+NK-p456,Niked Dunk Low Off-White Pine Green, 600.00
+NK-yU25,Nike Air Max Pre-Day Light Liquid Lime,150.00
+VN-ASCBKCL,Vans Authentic Supreme Black Checker Logo,1029.00
